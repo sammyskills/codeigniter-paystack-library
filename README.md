@@ -42,10 +42,10 @@ If you choose to use the configuration file method, download this file `config/p
 
 5. When the payment process is triggered, you should see a page like so:
 
-![Payment Processing](/demo-images/payment-processing.PNG)
+![Payment Processing](demo-images/payment-processing.PNG)
 
 And then automatically redirect to Paystacks website to make payment, like so:
 
-![Pay with Paystack](/demo-images/paystack-pay.PNG)
+![Pay with Paystack](demo-images/paystack-pay.PNG)
 
 6. You need to verify the transaction to determine a failed or successful transaction. See `application/controllers/Sample_controller.php` for example.
